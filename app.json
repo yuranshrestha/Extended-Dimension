@@ -1,0 +1,23 @@
+{
+  "id": "2f2973df-3b43-4909-9004-3b88a13398e1",
+  "name": "AL",
+  "publisher": "Yuran Shrestha",
+  "brief": "Extended Dimension for Dynamics 365/NAV",
+  "description": "Extended Dimension for Dynamics 365/NAV",
+  "version": "1.0.19394.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
